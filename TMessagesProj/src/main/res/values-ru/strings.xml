@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
-    <string name="LanguageName">Русский</string>
-    <string name="English">Английский</string>
-    <string name="LanguageNameInEnglish">Russian</string>
+    <string name="AppName">JiroGramm</string>
+    <string name="AppNameBeta">Jirogramm Beta</string>
+    <string name="LanguageName">Зрадницький</string>
+    <string name="English">Трамповський</string>
+    <string name="LanguageNameInEnglish">Zradium</string>
     <string name="LanguageCode">ru</string>
-    <string name="ContinueOnThisLanguage">Продолжить на русском</string>
+    <string name="ContinueOnThisLanguage">Продолжить на непереможном</string>
     <!--signin view-->
-    <string name="YourPhone">Ваш телефон</string>
+    <string name="YourPhone">Ваш номеронабиратель</string>
     <string name="StartText">Проверьте код страны и введите свой номер телефона.</string>
     <string name="Country">Страна</string>
     <string name="YourNumber">Номер телефона</string>
