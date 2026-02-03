@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Fork Client</string>
-    <string name="AppNameBeta">Fork Client</string>
-    <string name="AppNameFdroid">Forkgram</string>
-    <string name="LanguageName">English</string>
-    <string name="English">English</string>
-    <string name="LanguageNameInEnglish">English</string>
+    <string name="AppName">Jirogramm</string>
+    <string name="AppNameBeta">Jirogramm</string>
+    <string name="AppNameFdroid">Jirogramm</string>
+    <string name="LanguageName">Trumpish</string>
+    <string name="English">Trumpish</string>
+    <string name="LanguageNameInEnglish">Trumpish</string>
     <string name="LanguageCode">en</string>
-    <string name="ContinueOnThisLanguage">Continue in English</string>
+    <string name="ContinueOnThisLanguage">Continue in Trumpish</string>
     <!--signin view-->
     <string name="YourPhone">Your Phone</string>
     <string name="StartText">Please confirm your country code and enter your phone number.</string>
