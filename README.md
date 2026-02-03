@@ -1,54 +1,72 @@
-# Fork Client — Unofficial Telegram Messenger for Android
-![image](https://raw.githubusercontent.com/Forkgram/TelegramAndroid/58938f6bbe4159b90c38d9b94c9a70d57bedf3e0/TMessagesProj/src/main/res/drawable-xxhdpi/ic_launcher.png)  
-Fork Client is a fork of the official Telegram for Android application.  
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/org.forkgram.messenger)
+#Jir Client — Неофициальный мессенджер Telegram для Android
 
-![Build Status](https://travis-ci.org//Forkgram/TelegramAndroid.svg?branch=dev)
-[![Github All Releases](https://img.shields.io/github/downloads/Forkgram/TelegramAndroid/total.svg)](https://github.com/Forkgram/TelegramAndroid/releases)
+- Опция «Удалить для всех» включена по умолчанию.
 
-## Features:
+- Удален плавающий значок карандаша.
 
-- `Delete for everyone` option enabled by default.
-- Removed pencil floating icon.
-- Original message date for forwarded messages.
-- Smaller header in the sidebar.
-- Option to disable in-app camera.
-- Option to keep unmuted unread chats right after pinned dialogs.
-- See the correct full number of subscribers in groups/channels.
-- Option to go to the first message of a chat.
-- Quick share button for every media in private chats.
-- Option to start recording video messages with the rear camera.
-- Unlimited unarchived pinned chats (turns their sync off).
-- Option to disable big emojis.
-- Forward messages without quoting the original sender.
-- Added a lot of self-destruct timer's options in secret chats.
-  - Added 2, 3, 4, 5, 10, 15, 20, 30, 40 minutes.
-  - Added 2, 3, 5, 8, 12, 16 hours.
-  - Added 2, 3, 7 and 32 days.
-- Tap on cloud GIF with pre-written text will send GIF with this text as caption.
-- Tap on sticker with pre-written text will send both.
-- Added upload date for profile photos.
-- Added ability to see the profile info from the dialogs list via context menu.
-- Added ability to see unread count when you want to mark as read multiple dialogs.
-- Option to directly open the archive on pulldown
-- PiP mode for YouTube's in-app player
-- Added an option to show colored dots to quickly see when a person was last online  
-  - Yellow dot: last seen 15 minutes ago or less  
-  - Orange dot: last seen 30 minutes ago or less  
-  - Red dot: last seen 60 minutes ago or less 
+- Дата оригинального сообщения для пересылаемых сообщений.
 
-### Privacy Features:
+- Уменьшен заголовок в боковой панели.
 
-- Hidden `Connecting to proxy...` string.
-- Accounts names hidden from the side drawer.
-- Menus to edit username/bio/name moved in the debug menu (two long tap on version section).
-- Option to hide avatar/title of a chat from the dialogs list.
-- Option to not send stickers information in photos.
-- Some features are taken from the [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS).
+- Возможность отключить встроенную камеру.
 
+- Возможность сохранять непрочитанные чаты без отключения звука сразу после закрепленных диалогов.
 
+- Отображение корректного полного количества подписчиков в группах/каналах.
+
+- Возможность перейти к первому сообщению в чате.
+
+- Быстрая кнопка «Поделиться» для каждого медиафайла в личных чатах.
+
+- Возможность начать запись видеосообщений с помощью задней камеры.
+
+- Неограниченное количество незаархивированных закрепленных чатов (отключает их синхронизацию).
+
+- Возможность отключить большие эмодзи.
+
+- Пересылка сообщений без цитирования отправителя.
+
+- Добавлено множество вариантов таймеров самоуничтожения в секретных чатах.
+
+- Добавлены значения 2, 3, 4, 5, 10, 15, 20, 30, 40 минут.
+
+- Добавлены значения 2, 3, 5, 8, 12, 16 часов.
+
+- Добавлены значения 2, 3, 7 и 32 дня.
+
+- Нажатие на GIF-изображение облака с заранее написанным текстом отправит GIF-изображение с этим текстом в качестве подписи.
+
+- Нажатие на стикер с заранее написанным текстом отправит оба варианта.
+
+- Добавлена ​​дата загрузки для фотографий профиля.
+
+- Добавлена ​​возможность просмотра информации профиля из списка диалогов через контекстное меню.
+
+- Добавлена ​​возможность просмотра количества непрочитанных сообщений, если вы хотите отметить несколько диалогов как прочитанные.
+
+- Возможность прямого открытия архива в выпадающем меню
+- Режим «картинка в картинке» для встроенного проигрывателя YouTube
+- Добавлена ​​опция отображения цветных точек для быстрого определения времени последнего посещения пользователем
+
+- Желтая точка: последнее посещение 15 минут назад или меньше
+
+- Оранжевая точка: последнее посещение 30 минут назад или меньше
+
+- Красная точка: последнее посещение 60 минут назад или меньше
+
+###Функции конфиденциальности:
+
+- Скрытая строка «Подключение к прокси...».
+
+- Имена учетных записей скрыты в боковой панели.
+
+- Меню редактирования имени пользователя/биографии/имени перемещено в меню отладки (два долгих нажатия на раздел версии).
+
+- Возможность скрыть аватар/заголовок чата из списка диалогов.
+
+- Возможность не отправлять информацию о стикерах на фотографиях.
+
+- Некоторые функции взяты из [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS).
 
 ## Downloads:
 You can download binaries from Releases or from my [Telegram channel Forkgram](https://t.me/forkgram).
